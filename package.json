@@ -1,0 +1,14 @@
+{
+  "name": "socket.io-chat-example",
+  "version": "1.0.0",
+  "description": "A simple chat client example using socket.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evennode/socket.io-chat"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.4.8",
+    "socket.io": "^1.1.0"
+  }
+}
