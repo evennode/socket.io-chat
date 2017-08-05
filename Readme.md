@@ -8,7 +8,7 @@ A simple chat demo to demonstrate WebSockets support on www.evennode.com Node.js
 ```
 $ cd socket.io-chat-example
 $ npm install
-$ node .
+$ node app.js
 ```
 
 And point your browser to `http://localhost:3000`. Optionally specify
